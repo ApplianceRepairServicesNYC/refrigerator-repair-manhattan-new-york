@@ -1,32 +1,31 @@
-# refrigeratorrepairnyc
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sub Zero Refrigerator Repair Manhattan New York - Expert Sub Zero Repairs in Manhattan, NY</title>
-    <meta name="description" content="Sub Zero Refrigerator Repair Manhattan offers expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Specializing in top brands like Sub Zero.">
-    <meta name="keywords" content="Sub Zero refrigerator repair Manhattan, Manhattan Sub Zero refrigerator repair, Sub Zero refrigerator repair services, Sub Zero refrigeration repair, Manhattan appliance repair, Sub Zero Refrigerator Repair Manhattan">
-    <meta name="author" content="Sub Zero Refrigerator Repair Manhattan">
+    <title>Refrigeration Repair Manhattan New York - Expert Refrigerator Repairs in Manhattan, NY</title>
+    <meta name="description" content="Refrigeration Repair Manhattan offers expert, same-day refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Specializing in top brands like Samsung, Bosch, and more.">
+    <meta name="keywords" content="refrigerator repair Manhattan, Manhattan refrigerator repair, refrigerator repair services, refrigeration repair, Manhattan appliance repair, Refrigeration Repair Manhattan">
+    <meta name="author" content="Refrigeration Repair Manhattan">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
-    <link rel="sitemap" href="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
-    <meta property="og:title" content="Sub Zero Refrigerator Repair Manhattan - Expert Sub Zero Repairs in Manhattan, NY">
-    <meta property="og:description" content="Expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians for all your Sub Zero refrigerator needs.">
-    <meta property="og:url" content="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
+    <link rel="canonical" href="https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/">
+    <link rel="sitemap" href="https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/">
+    <meta property="og:title" content="Refrigeration Repair Manhattan - Expert Refrigerator Repairs in Manhattan, NY">
+    <meta property="og:description" content="Expert, same-day refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians for all your refrigerator needs.">
+    <meta property="og:url" content="https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Sub Zero Refrigerator Repair Manhattan - Expert Sub Zero Repairs in Manhattan, NY">
-    <meta name="twitter:description" content="Expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians.">
+    <meta name="twitter:title" content="Refrigeration Repair Manhattan - Expert Refrigerator Repairs in Manhattan, NY">
+    <meta name="twitter:description" content="Expert, same-day refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians.">
     <meta name="twitter:image" content="https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
-      "name": "Sub Zero Refrigerator Repair Manhattan",
-      "url": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc",
-      "description": "Sub Zero Refrigerator Repair Manhattan is the premier provider of Sub Zero refrigerator repair in Manhattan, New York, delivering expert solutions since 1993.",
+      "name": "Refrigeration Repair Manhattan",
+      "url": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/",
+      "description": "Refrigeration Repair Manhattan is the premier provider of refrigerator repair in Manhattan, New York, delivering expert solutions since 1993.",
       "telephone": "+17187171706",
       "email": "info@refrigerationrepairmanhattan.com",
       "image": "https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png",
@@ -58,7 +57,7 @@
       ],
       "logo": {
         "@type": "ImageObject",
-        "url": "https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york/assets/img/logo.png",
+        "url": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/assets/img/logo.png",
         "width": 600,
         "height": 150
       },
@@ -74,15 +73,15 @@
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#home"},
-        {"@type": "ListItem", "position": 2, "name": "Refrigerator Repair Services", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#services"},
-        {"@type": "ListItem", "position": 3, "name": "Serving All Manhattan Neighborhoods", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#service-areas"},
-        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#brands"},
-        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#additional-services"},
-        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#reviews"},
-        {"@type": "ListItem", "position": 7, "name": "About Us", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#about"},
-        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#contact"},
-        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#guarantee-policy"}
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#home"},
+        {"@type": "ListItem", "position": 2, "name": "Refrigerator Repair Services", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#services"},
+        {"@type": "ListItem", "position": 3, "name": "Serving All Manhattan Neighborhoods", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#service-areas"},
+        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#brands"},
+        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#additional-services"},
+        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#reviews"},
+        {"@type": "ListItem", "position": 7, "name": "About Us", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#about"},
+        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#contact"},
+        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://appliancerepairservicesnyc.github.io/refrigeratorrepairnyc/#guarantee-policy"}
       ]
     }
     </script>
@@ -380,7 +379,7 @@
     <div class="content-wrapper">
         <header>
             <div class="nav-container">
-                <div class="logo">Sub Zero Refrigerator Repair Manhattan</div>
+                <div class="logo">Refrigeration Repair Manhattan</div>
                 <nav>
                     <ul id="nav-menu">
                         <li><a href="#home">Home</a></li>
@@ -404,13 +403,13 @@
 
         <main id="main">
             <section class="hero" id="home" role="banner">
-                <h1>Expert Sub Zero Refrigerator Repair in Manhattan, NY</h1>
-                <p>Serving Manhattan since 1993, trust Sub Zero Refrigerator Repair Manhattan for reliable, same-day repairs in Manhattan and surrounding areas. Call us at (718) 717-1706 for same-day service!</p>
-                <a href="tel:+17187171706" class="cta-button" aria-label="Call to schedule your Sub Zero refrigerator repair">Schedule Your Repair</a>
+                <h1>Expert Refrigerator Repair in Manhattan, NY</h1>
+                <p>Serving Manhattan since 1993, trust Refrigeration Repair Manhattan for reliable, same-day repairs in Manhattan and surrounding areas. Call us at (718) 717-1706 for same-day service!</p>
+                <a href="tel:+17187171706" class="cta-button" aria-label="Call to schedule your refrigerator repair">Schedule Your Repair</a>
             </section>
 
             <section class="section" id="services" role="region" aria-label="Our Services">
-                <h2>Our Sub Zero Refrigerator Repair Services</h2>
+                <h2>Our Refrigerator Repair Services</h2>
                 <div class="services-grid">
                     <div class="service-item">
                         <button class="cta-button" onclick="toggleSection('topFreezerContent')" aria-label="Toggle top freezer repair details">
@@ -659,7 +658,7 @@
                 <h2>Serving All Manhattan Neighborhoods</h2>
                 <button class="cta-button" onclick="toggleSection('serviceAreasContent')" aria-label="Toggle service areas content">View Service Areas</button>
                 <div class="section-content" id="serviceAreasContent">
-                    <p>Offering top-tier Sub Zero refrigerator repair in Manhattan, including repairs with same-day service across all neighborhoods. Contact us for a full list of areas we serve.</p>
+                    <p>Offering top-tier refrigerator repair in Manhattan, including repairs with same-day service across all neighborhoods. Contact us for a full list of areas we serve.</p>
                     <div class="neighborhood-dropdown">
                         <div class="neighborhood-item"><span>Alphabet City</span> - 10009</div>
                         <div class="neighborhood-item"><span>Battery Park City</span> - 10280</div>
@@ -733,545 +732,189 @@
             </section>
 
             <section class="section" id="brands" role="region" aria-label="Brands We Service">
-                <h2>Sub Zero Refrigerator Models We Service</h2>
-                <button class="cta-button" onclick="toggleSection('brandsContent')" aria-label="Toggle brands content">View Models</button>
+                <h2>Refrigerator Brands We Service</h2>
+                <button class="cta-button" onclick="toggleSection('brandsContent')" aria-label="Toggle brands content">View Brands</button>
                 <div class="section-content" id="brandsContent">
-                    <p>We provide expert repair for top Sub Zero refrigerator models in Manhattan, ensuring quality service for all makes and models.</p>
+                    <p>We provide expert repair for top refrigerator brands in Manhattan, ensuring quality service for all makes and models.</p>
                     <div class="brands-grid">
                         <ul>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Amana</h3>
+                                <p class="brand-desc">Amana Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Asko</h3>
+                                <p class="brand-desc">Asko Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Bertazzoni</h3>
+                                <p class="brand-desc">Bertazzoni Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Blomberg</h3>
+                                <p class="brand-desc">Blomberg Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Blue Star</h3>
+                                <p class="brand-desc">Blue Star Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Bosch</h3>
+                                <p class="brand-desc">Bosch Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Broan</h3>
+                                <p class="brand-desc">Broan Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Cafe – GE</h3>
+                                <p class="brand-desc">Cafe – GE Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Cove</h3>
+                                <p class="brand-desc">Cove Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Dacor</h3>
+                                <p class="brand-desc">Dacor Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Danby</h3>
+                                <p class="brand-desc">Danby Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Electrolux</h3>
+                                <p class="brand-desc">Electrolux Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Fisher & Paykel</h3>
+                                <p class="brand-desc">Fisher & Paykel Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Frigidaire</h3>
+                                <p class="brand-desc">Frigidaire Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Fulgor Milano</h3>
+                                <p class="brand-desc">Fulgor Milano Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>General Electric</h3>
+                                <p class="brand-desc">General Electric Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Gaggenau</h3>
+                                <p class="brand-desc">Gaggenau Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Haier</h3>
+                                <p class="brand-desc">Haier Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Hotpoint</h3>
+                                <p class="brand-desc">Hotpoint Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Jenn-Air</h3>
+                                <p class="brand-desc">Jenn-Air Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>KitchenAid</h3>
+                                <p class="brand-desc">KitchenAid Refrigerator Repair Manhattan</p>
                             </li>
                         </ul>
                         <ul>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>LG</h3>
+                                <p class="brand-desc">LG Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Liebherr</h3>
+                                <p class="brand-desc">Liebherr Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Marvel</h3>
+                                <p class="brand-desc">Marvel Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Maytag</h3>
+                                <p class="brand-desc">Maytag Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Miele</h3>
+                                <p class="brand-desc">Miele Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Premier</h3>
+                                <p class="brand-desc">Premier Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Samsung</h3>
+                                <p class="brand-desc">Samsung Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Sharp</h3>
+                                <p class="brand-desc">Sharp Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Sirius</h3>
+                                <p class="brand-desc">Sirius Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Smeg</h3>
+                                <p class="brand-desc">Smeg Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Sub Zero</h3>
+                                <p class="brand-desc">Sub Zero Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Tappan</h3>
+                                <p class="brand-desc">Tappan Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Thermador</h3>
+                                <p class="brand-desc">Thermador Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Thor Kitchen</h3>
+                                <p class="brand-desc">Thor Kitchen Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Vent-A-Hood</h3>
+                                <p class="brand-desc">Vent-A-Hood Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Viking</h3>
+                                <p class="brand-desc">Viking Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Whirlpool</h3>
+                                <p class="brand-desc">Whirlpool Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Wolf</h3>
+                                <p class="brand-desc">Wolf Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Speed Queen</h3>
+                                <p class="brand-desc">Speed Queen Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Zephyr</h3>
+                                <p class="brand-desc">Zephyr Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Summit</h3>
+                                <p class="brand-desc">Summit Refrigerator Repair Manhattan</p>
                             </li>
                             <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-RH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/PH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
-                            </li>
-                            <li class="brand-item">
-                                <h3>BI-36UFDID/S/TH-LH</h3>
-                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                                <h3>Equator</h3>
+                                <p class="brand-desc">Equator Refrigerator Repair Manhattan</p>
                             </li>
                         </ul>
                     </div>
-                    <p>...and many more models (full list available on request).</p>
+                    <p>...and many more brands (full list available on request).</p>
                 </div>
             </section>
 
@@ -1309,18 +952,18 @@
             </section>
 
             <section class="section" id="about" role="region" aria-label="About Us">
-                <h2>About Sub Zero Refrigerator Repair Manhattan</h2>
+                <h2>About Refrigeration Repair Manhattan</h2>
                 <button class="cta-button" onclick="toggleSection('aboutContent')" aria-label="Toggle about content">Learn More</button>
                 <div class="section-content" id="aboutContent">
-                    <p>Serving Manhattan since 1993, Sub Zero Refrigerator Repair Manhattan is a trusted name in Manhattan, NY, delivering fast, reliable Sub Zero refrigerator repair across the city and surrounding areas. Our skilled technicians ensure your Sub Zero refrigerators are restored with precision.</p>
+                    <p>Serving Manhattan since 1993, Refrigeration Repair Manhattan is a trusted name in Manhattan, NY, delivering fast, reliable refrigerator repair across the city and surrounding areas. Our skilled technicians ensure your refrigerators are restored with precision.</p>
                 </div>
             </section>
 
             <section class="section" id="contact" role="region" aria-label="Contact Us">
-                <h2>Contact Sub Zero Refrigerator Repair Manhattan</h2>
+                <h2>Contact Refrigeration Repair Manhattan</h2>
                 <button class="cta-button" onclick="toggleSection('contactContent')" aria-label="Toggle contact content">Get in Touch</button>
                 <div class="section-content" id="contactContent">
-                    <p>Contact us for expert Sub Zero refrigerator repair in Manhattan. Reach out via phone at <a href="tel:+17187171706">+1 (718) 717-1706</a> or email at <a href="mailto:info@refrigerationrepairmanhattan.com">info@refrigerationrepairmanhattan.com</a>.</p>
+                    <p>Contact us for expert refrigerator repair in Manhattan. Reach out via phone at <a href="tel:+17187171706">+1 (718) 717-1706</a> or email at <a href="mailto:info@refrigerationrepairmanhattan.com">info@refrigerationrepairmanhattan.com</a>.</p>
                 </div>
             </section>
 
@@ -1328,8 +971,8 @@
                 <h2>100% Or Your Money Back Guaranteed Policy</h2>
                 <button class="cta-button" onclick="toggleSection('guaranteePolicyContent')" aria-label="Toggle guarantee policy content">View Policy</button>
                 <div class="section-content" id="guaranteePolicyContent">
-                    <p>We understand the frustration of dealing with companies that charge for repairs they can’t complete or lack the expertise to get the job done right. At <strong>Sub Zero Refrigerator Repair Manhattan</strong>, we believe in <em>honest, reliable service</em> you can trust. That’s why we offer a <strong>100% Money-Back Guarantee</strong>.</p>
-                    <p>If we are unable to complete your Sub Zero refrigerator repair due to our own limitations or lack of expertise, you will receive a full refund—no questions asked. You should only pay for real results, not failed attempts.</p>
+                    <p>We understand the frustration of dealing with companies that charge for repairs they can’t complete or lack the expertise to get the job done right. At <strong>Refrigeration Repair Manhattan</strong>, we believe in <em>honest, reliable service</em> you can trust. That’s why we offer a <strong>100% Money-Back Guarantee</strong>.</p>
+                    <p>If we are unable to complete your refrigerator repair due to our own limitations or lack of expertise, you will receive a full refund—no questions asked. You should only pay for real results, not failed attempts.</p>
                     <p>We stand by our work, and your satisfaction is our top priority.</p>
                 </div>
             </section>
@@ -1338,8 +981,8 @@
         <footer role="contentinfo">
             <div class="footer-container">
                 <div class="footer-section">
-                    <h4>Sub Zero Refrigerator Repair Manhattan</h4>
-                    <p>Expert Sub Zero refrigerator repair in Manhattan, NY since 1993.</p>
+                    <h4>Refrigeration Repair Manhattan</h4>
+                    <p>Expert refrigerator repair in Manhattan, NY since 1993.</p>
                     <p>Trust us for reliable, same-day service.</p>
                 </div>
                 <div class="footer-section quick-links">
@@ -1380,11 +1023,11 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2025 Sub Zero Refrigerator Repair Manhattan. All rights reserved.</p>
+                <p>&copy; 2025 Refrigeration Repair Manhattan. All rights reserved.</p>
             </div>
         </footer>
 
-        <a href="tel:+17187171706" class="phone-floater" aria-label="Book now to schedule your Sub Zero refrigerator repair">
+        <a href="tel:+17187171706" class="phone-floater" aria-label="Book now to schedule your refrigerator repair">
             <span class="icon">📞</span>
             <span class="floater-text">Book Now</span>
         </a>
