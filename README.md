@@ -1,0 +1,1496 @@
+# refrigeratorrepairnyc
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sub Zero Refrigerator Repair Manhattan New York - Expert Sub Zero Repairs in Manhattan, NY</title>
+    <meta name="description" content="Sub Zero Refrigerator Repair Manhattan offers expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Specializing in top brands like Sub Zero.">
+    <meta name="keywords" content="Sub Zero refrigerator repair Manhattan, Manhattan Sub Zero refrigerator repair, Sub Zero refrigerator repair services, Sub Zero refrigeration repair, Manhattan appliance repair, Sub Zero Refrigerator Repair Manhattan">
+    <meta name="author" content="Sub Zero Refrigerator Repair Manhattan">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
+    <link rel="sitemap" href="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
+    <meta property="og:title" content="Sub Zero Refrigerator Repair Manhattan - Expert Sub Zero Repairs in Manhattan, NY">
+    <meta property="og:description" content="Expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians for all your Sub Zero refrigerator needs.">
+    <meta property="og:url" content="https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Sub Zero Refrigerator Repair Manhattan - Expert Sub Zero Repairs in Manhattan, NY">
+    <meta name="twitter:description" content="Expert, same-day Sub Zero refrigerator repair in Manhattan, NY, and surrounding areas since 1993. Trust our skilled technicians.">
+    <meta name="twitter:image" content="https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "Sub Zero Refrigerator Repair Manhattan",
+      "url": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc",
+      "description": "Sub Zero Refrigerator Repair Manhattan is the premier provider of Sub Zero refrigerator repair in Manhattan, New York, delivering expert solutions since 1993.",
+      "telephone": "+17187171706",
+      "email": "info@refrigerationrepairmanhattan.com",
+      "image": "https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "123 Main St",
+        "addressLocality": "Manhattan",
+        "addressRegion": "NY",
+        "postalCode": "10001",
+        "addressCountry": "US"
+      },
+      "areaServed": {
+        "@type": "GeoCircle",
+        "geoMidpoint": {
+          "@type": "GeoCoordinates",
+          "latitude": 40.78,
+          "longitude": -73.98
+        },
+        "geoRadius": "10000"
+      },
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "07:00",
+          "closes": "18:00"
+        }
+      ],
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://sites.google.com/view/refrigeratorrepairmanhattannyc/refrigerator-repair-manhattan-new-york/assets/img/logo.png",
+        "width": 600,
+        "height": 150
+      },
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.9",
+        "reviewCount": "1510"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#home"},
+        {"@type": "ListItem", "position": 2, "name": "Refrigerator Repair Services", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#services"},
+        {"@type": "ListItem", "position": 3, "name": "Serving All Manhattan Neighborhoods", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#service-areas"},
+        {"@type": "ListItem", "position": 4, "name": "Brands We Service", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#brands"},
+        {"@type": "ListItem", "position": 5, "name": "Additional Services", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#additional-services"},
+        {"@type": "ListItem", "position": 6, "name": "Customer Reviews", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#reviews"},
+        {"@type": "ListItem", "position": 7, "name": "About Us", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#about"},
+        {"@type": "ListItem", "position": 8, "name": "Contact Us", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#contact"},
+        {"@type": "ListItem", "position": 9, "name": "Guarantee Policy", "item": "https://appliancerepairservicesnyc.github.io/subzerorefrigeratorrepairmanhattannyc/#guarantee-policy"}
+      ]
+    }
+    </script>
+    <style>
+        * {margin: 0; padding: 0; box-sizing: border-box;}
+        html, body {height: 100%; margin: 0; padding: 0; overflow-y: auto;}
+        body {font-family: 'Inter', sans-serif; color: #1F2937; line-height: 1.6; background: #FFFFFF; padding-top: 80px;}
+        .content-wrapper {background: linear-gradient(135deg, #1E3A8A, #3B82F6, #06B6D4); background-size: 200% 200%; animation: gradientFlow 30s ease infinite; margin: 0; padding: 0;}
+        @keyframes gradientFlow {0% {background-position: 0% 50%;} 50% {background-position: 100% 50%;} 100% {background-position: 0% 50%;}}
+        header {position: fixed; top: 0; width: 100%; background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6); background-size: 200% 200%; padding: 1rem 2rem; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); z-index: 1000; animation: shimmer 5s ease infinite;}
+        @keyframes shimmer {0% {background-position: 0% 50%;} 50% {background-position: 100% 50%;} 100% {background-position: 0% 50%;}}
+        .nav-container {max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center;}
+        .logo {font-family: 'Montserrat', sans-serif; font-size: 1.5rem; font-weight: 700; color: #FFFFFF; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);}
+        nav ul {list-style: none; display: flex; gap: 1.5rem;}
+        nav ul li a {color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 600; text-decoration: none; transition: color 0.3s ease, text-shadow 0.3s ease;}
+        nav ul li a:hover {color: #FFD700; text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);}
+        nav ul li a[aria-current="page"] {color: #FFD700; text-decoration: underline;}
+        .hamburger {display: none; flex-direction: column; cursor: pointer;}
+        .hamburger span {width: 25px; height: 3px; background: #FFFFFF; margin: 2px 0; transition: all 0.3s ease;}
+        .hamburger.active span:nth-child(1) {transform: rotate(45deg) translate(5px, 5px);}
+        .hamburger.active span:nth-child(2) {opacity: 0;}
+        .hamburger.active span:nth-child(3) {transform: rotate(-45deg) translate(7px, -7px);}
+        .header-insurance {
+            max-width: 1200px;
+            margin: 0.5rem auto 0;
+            text-align: center;
+            color: #FFD700;
+            text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);
+            font-family: 'Montserrat', sans-serif;
+            font-size: 0.9rem;
+            font-weight: 500;
+            background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6);
+            background-size: 200% 200%;
+            animation: shimmer 5s ease infinite;
+            padding: 0.2rem 0;
+        }
+        @media (max-width: 768px) {
+            nav ul {display: none; position: absolute; top: 60px; left: 0; width: 100%; background: linear-gradient(45deg, #1E3A8A, #06B6D4); flex-direction: column; padding: 1rem;}
+            nav ul.active {display: flex;}
+            .hamburger {display: flex;}
+            .header-insurance {font-size: 0.8rem; padding: 0.1rem 0;}
+            body {padding-top: 100px;}
+        }
+        .skip-link {position: absolute; top: -40px; left: 0; background: #fff; padding: 8px; color: #1E3A8A; text-decoration: none; z-index: 1001;}
+        .skip-link:focus {top: 0;}
+        main {padding-top: 80px;}
+        .section {max-width: 1200px; margin: 2rem auto; padding: 2rem; background: rgba(255, 255, 255, 0.9); border-radius: 16px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); text-align: center; position: relative; border: 2px solid transparent; border-image: linear-gradient(45deg, #1E3A8A, #06B6D4) 1; animation: fadeIn 1s ease-out; min-height: fit-content; display: flow-root;}
+        @keyframes fadeIn {0% {opacity: 0; transform: translateY(20px);} 100% {opacity: 1; transform: translateY(0);}}
+        .force-reflow {min-height: fit-content;}
+        .section h2 {font-family: 'Montserrat', sans-serif; font-size: 2rem; margin-bottom: 1.5rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);}
+        #home h1, #services h2, #service-areas h2, #brands h2, #additional-services h2, #reviews h2, #about h2, #contact h2, #guarantee-policy h2 {color: #000000;}
+        .section h3 {font-family: 'Montserrat', sans-serif; font-size: 1.2rem; color: #1E3A8A; margin-bottom: 0.5rem;}
+        .services-grid h3 {color: #FFD700; display: inline; vertical-align: middle;}
+        .hero {
+            padding: 8rem 2rem 4rem;
+            text-align: center;
+            background-image: url('https://lirp.cdn-website.com/900977ee/dms3rep/multi/opt/REFRIGERTOR+REPAIR-640w.png');
+            background-size: 100% auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            border-radius: 16px;
+            margin: 2rem auto;
+            max-width: 1200px;
+            border: 2px solid transparent;
+            border-image: linear-gradient(45deg, #1E3A8A, #06B6D4) 1;
+            position: relative;
+        }
+        .hero::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 16px;
+            z-index: 1;
+        }
+        .hero h1, .hero p, .hero .cta-button {
+            position: relative;
+            z-index: 2;
+        }
+        .hero h1 {font-family: 'Montserrat', sans-serif; font-size: 2.5rem; margin-bottom: 1rem; text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);}
+        .hero p {font-size: 1.2rem; margin-bottom: 2rem;}
+        .cta-button {display: inline-block; padding: 0.8rem 1.8rem; background: linear-gradient(45deg, #1E3A8A, #3B82F6); color: #FFFFFF; font-family: 'Montserrat', sans-serif; font-size: 1rem; font-weight: 600; text-decoration: none; border-radius: 8px; transition: transform 0.3s ease, background 0.3s ease, box-shadow 0.3s ease; margin: 0.5rem; border: 1px solid #FFD700; box-shadow: 0 0 5px rgba(255, 215, 0, 0.3), 0 4px 10px rgba(0, 0, 0, 0.2);}
+        .cta-button:hover {background: linear-gradient(45deg, #1E40AF, #06B6D4); transform: scale(1.05); box-shadow: 0 0 10px rgba(255, 215, 0, 0.5), 0 0 15px rgba(0, 183, 255, 0.5); animation: pulse 1.5s infinite;}
+        .cta-button.active {background: linear-gradient(45deg, #1E40AF, #06B6D4);}
+        @keyframes pulse {0% {box-shadow: 0 0 0 0 rgba(0, 183, 255, 0.5);} 70% {box-shadow: 0 0 0 10px rgba(0, 183, 255, 0);} 100% {box-shadow: 0 0 0 0 rgba(0, 183, 255, 0);}}
+        .service-item .cta-button {display: flex; align-items: center; justify-content: center; gap: 0.5rem;}
+        .service-item .cta-button .icon {font-size: 1.2rem; vertical-align: middle;}
+        .service-item .cta-button:hover .icon {color: #FFD700;}
+        @media (max-width: 768px) {
+            .service-item .cta-button .icon {font-size: 1rem;}
+            .service-item .cta-button img.icon {width: 20px; height: 20px;}
+        }
+        .section-content {display: none; margin-top: 1.5rem; padding: 1rem; background: linear-gradient(135deg, #E0F7FA, #F0F9FF); border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); position: relative;}
+        .section-content.active {display: block;}
+        .section-content p, .section-content ul {font-size: 1rem; margin-bottom: 1rem;}
+        .section-content ul {list-style: disc; padding-left: 1.5rem; text-align: left; max-width: 600px; margin: 0 auto;}
+        #reviewsContent {width: 100%; box-sizing: border-box; max-height: 600px; overflow-y: auto; -webkit-overflow-scrolling: touch; touch-action: pan-y;}
+        .widget-wrapper {position: relative; width: 100%; overflow: auto;}
+        .elfsight-app-2942fb52-4463-41bc-bc83-d831b9da6f0e {max-width: 100%; margin: 0 auto; width: 100%; box-sizing: border-box;}
+        .services-grid {display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; padding: 1rem; justify-items: center;}
+        @media (min-width: 769px) {
+            .services-grid {grid-template-columns: repeat(4, 1fr);}
+        }
+        @media (max-width: 768px) {
+            .services-grid {grid-template-columns: 1fr;}
+        }
+        .service-item {display: flex; flex-direction: column; align-items: center; gap: 0.5rem; width: 100%;}
+        .service-detail {display: none; margin-top: 0.5rem; padding: 1rem; background: linear-gradient(135deg, #E0F7FA, #F0F9FF); border: 1px solid #06B6D4; border-radius: 8px; text-align: center; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); width: 100%;}
+        .service-detail.active {display: block;}
+        .brands-grid {display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; padding: 1.5rem; justify-items: center;}
+        .brands-grid ul {list-style: none; margin: 0; padding: 0;}
+        .brand-item {background: #F7FAFF; padding: 1rem; border-radius: 10px; width: 100%; text-align: center; cursor: pointer; transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; border: 1px solid #E0E7FF;}
+        .brand-item:hover {transform: scale(1.05); box-shadow: 0 6px 15px rgba(0, 183, 255, 0.3); background-color: #E0F7FA;}
+        .brand-item:hover h3 {color: #1E3A8A;}
+        .brand-item h3 {font-family: 'Montserrat', sans-serif; font-size: 1.1rem; font-weight: 600; margin: 0; transition: color 0.3s ease; color: #3B82F6;}
+        .brand-desc {display: none; padding: 0.75rem; font-size: 0.95rem; background: #E0F7FA; border-radius: 6px; margin-top: 0.5rem; color: #1F2937; border: 1px solid #06B6D4; transition: opacity 0.3s ease;}
+        .brand-item:hover .brand-desc {display: block; opacity: 1;}
+        .brand-desc.active {display: block; opacity: 1;}
+        @media (max-width: 768px) {
+            .brands-grid {grid-template-columns: repeat(2, 1fr); gap: 1rem; padding: 0.75rem;}
+            .brand-item {padding: 0.75rem;}
+            .brand-item h3 {font-size: 0.9rem;}
+            .brand-desc {font-size: 0.8rem;}
+        }
+        .neighborhood-dropdown {
+            max-height: 200px;
+            overflow-y: auto;
+            background: #F7FAFF;
+            border: 1px solid #06B6D4;
+            border-radius: 8px;
+            padding: 1rem;
+            margin-top: 1rem;
+            text-align: center;
+            scrollbar-width: thin;
+            scrollbar-color: #06B6D4 #E0F7FA;
+        }
+        .neighborhood-dropdown::-webkit-scrollbar {
+            width: 8px;
+        }
+        .neighborhood-dropdown::-webkit-scrollbar-track {
+            background: #E0F7FA;
+        }
+        .neighborhood-dropdown::-webkit-scrollbar-thumb {
+            background: #06B6D4;
+            border-radius: 4px;
+        }
+        .neighborhood-item {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 0.5rem;
+        }
+        .neighborhood-item span {font-weight: 600; color: #1E3A8A; margin-right: 0.5rem;}
+        @media (max-width: 768px) {
+            .neighborhood-dropdown {max-height: 150px;}
+        }
+        @media (max-width: 480px) {
+            .neighborhood-dropdown {max-height: 100px;}
+        }
+        @media (max-width: 768px) {
+            .hero h1 {font-size: 2rem;}
+            .section {padding: 1.5rem;}
+            .section h2 {font-size: 1.8rem;}
+            .section h3 {font-size: 1.1rem;}
+            .section-content p, .section-content ul {font-size: 0.9rem;}
+        }
+        @media (max-width: 480px) {
+            .section {padding: 1rem;}
+            .section h2 {font-size: 1.5rem;}
+            .section h3 {font-size: 1rem;}
+            .section-content p, .section-content ul {font-size: 0.85rem;}
+            .cta-button {padding: 0.75rem 1.5rem; font-size: 0.9rem;}
+        }
+        footer {background: linear-gradient(45deg, #1E3A8A, #06B6D4, #3B82F6); background-size: 200% 200%; color: #FFFFFF; padding: 3rem 0; margin-top: 2rem; border-top: 3px solid #06B6D4; font-family: 'Inter', sans-serif; animation: shimmer 5s ease infinite;}
+        .footer-container {max-width: 1200px; margin: 0 auto; display: flex; flex-wrap: wrap; justify-content: space-between; padding: 0 2rem; gap: 2rem;}
+        .footer-section {flex: 1; min-width: 200px;}
+        .footer-section h4 {font-family: 'Montserrat', sans-serif; font-size: 1.2rem; margin-bottom: 1rem; color: #FFD700;}
+        .footer-section p, .footer-section a {font-size: 0.9rem; color: #E0F7FA; text-decoration: none; margin-bottom: 0.5rem; display: block; transition: color 0.3s ease, text-shadow 0.3s ease;}
+        .footer-section a:hover {color: #FFD700; text-shadow: 0 0 8px rgba(255, 215, 0, 0.5);}
+        .quick-links-container, .appliance-services-container {display: flex; gap: 2rem; justify-content: space-between;}
+        .quick-links-list, .appliance-services-list {list-style: none; flex: 1;}
+        .quick-links-list li, .appliance-services-list li {margin-bottom: 0.5rem;}
+        .footer-section .phone-link, .footer-section .hours-info {display: flex; align-items: center; gap: 0.5rem;}
+        .footer-section .phone-link .icon, .footer-section .hours-info .icon {font-size: 1.2rem;}
+        .footer-section .phone-link .icon, .footer-section .hours-info .icon {font-size: 1.2rem;}
+        .footer-bottom {text-align: center; padding-top: 2rem; margin-top: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.2); font-size: 0.85rem; color: #E0F7FA;}
+        @media (max-width: 768px) {
+            .footer-container {flex-direction: column; text-align: center;}
+            .footer-section {margin-bottom: 2rem;}
+            .quick-links-container, .appliance-services-container {flex-direction: column; gap: 1rem;}
+        }
+        #guarantee-policy .section-content, #additional-services .section-content {background: linear-gradient(135deg, #E0F7FA, #FFF7E6); border: 2px solid #FFD700; padding: 1.5rem; position: relative; text-align: left; max-width: 800px; margin: 1.5rem auto;}
+        #guarantee-policy .section-content::before {content: "✔"; position: absolute; top: -1rem; left: 50%; transform: translateX(-50%); background: #FFD700; color: #1E3A8A; font-size: 1.5rem; font-weight: bold; padding: 0.5rem 1rem; border-radius: 50%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);}
+        #additional-services .section-content::before {content: "🔧"; position: absolute; top: -1rem; left: 50%; transform: translateX(-50%); background: #FFD700; color: #1E3A8A; font-size: 1.5rem; font-weight: bold; padding: 0.5rem 1rem; border-radius: 50%; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);}
+        #guarantee-policy .section-content p, #additional-services .section-content li {font-size: 1rem; margin-bottom: 1rem; line-height: 1.8;}
+        #guarantee-policy .section-content p strong, #additional-services .section-content li strong {color: #1E3A8A; font-weight: 600;}
+        #guarantee-policy .section-content p em, #additional-services .section-content li em {font-style: italic; color: #3B82F6;}
+        #guarantee-policy .section-content p:last-child {font-weight: 600; color: #1E3A8A; text-align: center; margin-top: 1.5rem;}
+        @media (max-width: 768px) {
+            #guarantee-policy .section-content, #additional-services .section-content {padding: 1rem;}
+            #guarantee-policy .section-content::before, #additional-services .section-content::before {font-size: 1.2rem; padding: 0.3rem 0.8rem;}
+            #guarantee-policy .section-content p, #additional-services .section-content li {font-size: 0.9rem;}
+        }
+        .phone-floater {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: auto;
+            height: 40px;
+            background: linear-gradient(45deg, #1E3A8A, #06B6D4);
+            border-radius: 25px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 0.75rem 1.25rem;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            z-index: 2000;
+            text-decoration: none;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            gap: 0.5rem;
+            pointer-events: auto;
+        }
+        .phone-floater:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 15px rgba(0, 183, 255, 0.5);
+        }
+        .phone-floater span.icon {
+            font-size: 1.5rem;
+            color: #FFFFFF;
+        }
+        .phone-floater span.floater-text {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 1rem;
+            font-weight: 600;
+            color: #FFFFFF;
+        }
+        @media (max-width: 480px) {
+            .phone-floater {
+                height: 48px !important;
+                padding: 0.5rem 1rem !important;
+                display: flex !important;
+            }
+            .phone-floater span.icon {
+                font-size: 1.3rem;
+            }
+            .phone-floater span.floater-text {
+                font-size: 0.9rem;
+            }
+        }
+        .review-badge {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background: linear-gradient(45deg, #0072e5, #00c6ff);
+            color: #fff;
+            padding: 12px 20px;
+            border-radius: 25px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+            font-family: 'Lato', sans-serif;
+            font-size: 16px;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            z-index: 2000;
+        }
+
+        .review-badge:hover {
+            transform: scale(1.05);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        .review-badge i {
+            color: #ffd700; /* Gold star */
+            font-size: 18px;
+        }
+
+        @media (max-width: 768px) {
+            .review-badge {
+                font-size: 14px;
+                padding: 10px 16px;
+            }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <a href="#main" class="skip-link">Skip to Content</a>
+    <div class="content-wrapper">
+        <header>
+            <div class="nav-container">
+                <div class="logo">Sub Zero Refrigerator Repair Manhattan</div>
+                <nav>
+                    <ul id="nav-menu">
+                        <li><a href="#home">Home</a></li>
+                        <li><a href="#services">Refrigerator Repair Services</a></li>
+                        <li><a href="#service-areas">Serving All Manhattan Neighborhoods</a></li>
+                        <li><a href="#brands">Brands We Service</a></li>
+                        <li><a href="#additional-services">Additional Services</a></li>
+                        <li><a href="#reviews">Customer Reviews</a></li>
+                        <li><a href="#about">About Us</a></li>
+                        <li><a href="#contact">Contact Us</a></li>
+                    </ul>
+                    <div class="hamburger" id="hamburger" role="button" aria-expanded="false" aria-controls="nav-menu">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </nav>
+            </div>
+            <div class="header-insurance">Fully Insured & Authorized for Multiple Brands</div>
+        </header>
+
+        <main id="main">
+            <section class="hero" id="home" role="banner">
+                <h1>Expert Sub Zero Refrigerator Repair in Manhattan, NY</h1>
+                <p>Serving Manhattan since 1993, trust Sub Zero Refrigerator Repair Manhattan for reliable, same-day repairs in Manhattan and surrounding areas. Call us at (718) 717-1706 for same-day service!</p>
+                <a href="tel:+17187171706" class="cta-button" aria-label="Call to schedule your Sub Zero refrigerator repair">Schedule Your Repair</a>
+            </section>
+
+            <section class="section" id="services" role="region" aria-label="Our Services">
+                <h2>Our Sub Zero Refrigerator Repair Services</h2>
+                <div class="services-grid">
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('topFreezerContent')" aria-label="Toggle top freezer repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Top Freezer Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="topFreezerContent">
+                            <p>Expert Service for All Models: Top Freezer Refrigerators.</p>
+                            <p>Top Freezer Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('topFreezerDropdown')">Learn More</button>
+                            <div id="topFreezerDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Top Freezer Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized top freezer refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your top freezer refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for top freezer refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Top Freezer Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your top freezer refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in top freezer refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your top freezer refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their top freezer refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain top freezer refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day top freezer refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('bottomFreezerContent')" aria-label="Toggle bottom freezer repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Bottom Freezer Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="bottomFreezerContent">
+                            <p>Expert Service for All Models: Bottom Freezer Refrigerators.</p>
+                            <p>Bottom Freezer Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('bottomFreezerDropdown')">Learn More</button>
+                            <div id="bottomFreezerDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Bottom Freezer Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized bottom freezer refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your bottom freezer refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for bottom freezer refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Bottom Freezer Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your bottom freezer refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in bottom freezer refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your bottom freezer refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their bottom freezer refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain bottom freezer refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day bottom freezer refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('frenchDoorContent')" aria-label="Toggle french door repair details">
+                            <span class="icon">❄️</span>
+                            <h3>French Door Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="frenchDoorContent">
+                            <p>Expert Service for All Models: French Door Refrigerators.</p>
+                            <p>French Door Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('frenchDoorDropdown')">Learn More</button>
+                            <div id="frenchDoorDropdown" class="dropdown-content" style="display: none;">
+                                <h3>French Door Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized french door refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your french door refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for french door refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our French Door Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your french door refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in french door refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your french door refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their french door refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain french door refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day french door refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('sideBySideContent')" aria-label="Toggle side-by-side repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Side-by-Side Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="sideBySideContent">
+                            <p>Expert Service for All Models: Side-by-Side Refrigerators.</p>
+                            <p>Side-by-Side Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('sideBySideDropdown')">Learn More</button>
+                            <div id="sideBySideDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Side-by-Side Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized side-by-side refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your side-by-side refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for side-by-side refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Side-by-Side Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your side-by-side refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in side-by-side refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your side-by-side refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their side-by-side refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain side-by-side refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day side-by-side refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('underCounterContent')" aria-label="Toggle undercounter repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Undercounter Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="underCounterContent">
+                            <p>Expert Service for All Models: Undercounter Refrigerators.</p>
+                            <p>Undercounter Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('underCounterDropdown')">Learn More</button>
+                            <div id="underCounterDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Undercounter Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized undercounter refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your undercounter refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for undercounter refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Undercounter Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your undercounter refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in undercounter refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your undercounter refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their undercounter refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain undercounter refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day undercounter refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('quadDoorContent')" aria-label="Toggle quad door repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Quad Door Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="quadDoorContent">
+                            <p>Expert Service for All Models: Quad Door Refrigerators.</p>
+                            <p>Quad Door Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('quadDoorDropdown')">Learn More</button>
+                            <div id="quadDoorDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Quad Door Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized quad door refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your quad door refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for quad door refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Quad Door Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your quad door refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in quad door refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your quad door refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their quad door refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain quad door refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day quad door refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('builtInContent')" aria-label="Toggle built-in repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Built-In Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="builtInContent">
+                            <p>Expert Service for All Models: Built-In Refrigerators.</p>
+                            <p>Built-In Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('builtInDropdown')">Learn More</button>
+                            <div id="builtInDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Built-In Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized built-in refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your built-in refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for built-in refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Built-In Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your built-in refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in built-in refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your built-in refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their built-in refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain built-in refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day built-in refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="service-item">
+                        <button class="cta-button" onclick="toggleSection('counterDepthContent')" aria-label="Toggle counter-depth repair details">
+                            <span class="icon">❄️</span>
+                            <h3>Counter-Depth Refrigerator Repair</h3>
+                        </button>
+                        <div class="service-detail" id="counterDepthContent">
+                            <p>Expert Service for All Models: Counter-Depth Refrigerators.</p>
+                            <p>Counter-Depth Refrigerator Repair Service Manhattan, New York</p>
+                            <button class="cta-button" onclick="toggleDropdown('counterDepthDropdown')">Learn More</button>
+                            <div id="counterDepthDropdown" class="dropdown-content" style="display: none;">
+                                <h3>Counter-Depth Refrigerator Repair Services in Manhattan</h3>
+                                <p>We provide specialized counter-depth refrigerator repair services throughout Manhattan, delivering swift and reliable solutions for residents. Our local team is dedicated to restoring your counter-depth refrigerators to full functionality with same-day service, ensuring your food storage routine stays on track. Whether you’re in a Manhattan family home, an apartment, a business, or a residence, we offer precise repairs to keep your refrigerator performing at its best.</p>
+                                <p>Our Service Areas:</p>
+                                <ul>
+                                    <li><strong>Manhattan, New York:</strong> We assist Manhattan households with expert repairs for counter-depth refrigerators, addressing issues like compressor failures, cooling problems, or ice maker malfunctions with efficiency.</li>
+                                </ul>
+                                <p>Benefits of Our Counter-Depth Refrigerator Repair:</p>
+                                <ul>
+                                    <li><strong>Fast Turnaround:</strong> We value your time. That’s why we offer speedy service with same-day availability, getting your counter-depth refrigerator back up and running without delay.</li>
+                                    <li><strong>Trained Specialists:</strong> Our technicians are highly skilled in counter-depth refrigerator systems, using genuine parts to ensure repairs are built to last.</li>
+                                    <li><strong>Community-Centered Service:</strong> As a local Manhattan provider, we tailor our approach to the unique needs of Manhattan residents.</li>
+                                    <li><strong>Thorough Problem-Solving:</strong> We tackle everything from compressor failures to digital control glitches, ensuring your counter-depth refrigerator runs reliably.</li>
+                                </ul>
+                                <p>Supporting Manhattan Homes and Businesses:</p>
+                                <p>In Manhattan, NY, our repair services cater to a variety of needs. We help homeowners keep their counter-depth refrigerators in top condition for family food storage. Families rely on us to ensure their refrigerators are ready for everyday use. Small businesses like restaurants or convenience stores trust our expertise to maintain counter-depth refrigerators for high-volume operations. No matter your location, we’re committed to keeping your food storage routine running smoothly.</p>
+                                <p>Book Your Repair Today:</p>
+                                <p>For dependable, same-day counter-depth refrigerator repair in Manhattan, NY, trust our local team to serve with precision. Call us at (718) 717-1706 to schedule your repair and keep your food storage efficient.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" id="service-areas" role="region" aria-label="Serving All Manhattan Neighborhoods">
+                <h2>Serving All Manhattan Neighborhoods</h2>
+                <button class="cta-button" onclick="toggleSection('serviceAreasContent')" aria-label="Toggle service areas content">View Service Areas</button>
+                <div class="section-content" id="serviceAreasContent">
+                    <p>Offering top-tier Sub Zero refrigerator repair in Manhattan, including repairs with same-day service across all neighborhoods. Contact us for a full list of areas we serve.</p>
+                    <div class="neighborhood-dropdown">
+                        <div class="neighborhood-item"><span>Alphabet City</span> - 10009</div>
+                        <div class="neighborhood-item"><span>Battery Park City</span> - 10280</div>
+                        <div class="neighborhood-item"><span>Bowery</span> - 10002</div>
+                        <div class="neighborhood-item"><span>Carnegie Hill</span> - 10128</div>
+                        <div class="neighborhood-item"><span>Chelsea</span> - 10001</div>
+                        <div class="neighborhood-item"><span>Central Harlem</span> - 10027</div>
+                        <div class="neighborhood-item"><span>Chinatown</span> - 10013</div>
+                        <div class="neighborhood-item"><span>Civic Center</span> - 10007</div>
+                        <div class="neighborhood-item"><span>East Harlem</span> - 10029</div>
+                        <div class="neighborhood-item"><span>East Village</span> - 10003</div>
+                        <div class="neighborhood-item"><span>Financial District</span> - 10004</div>
+                        <div class="neighborhood-item"><span>Flatiron District</span> - 10010</div>
+                        <div class="neighborhood-item"><span>Fort George</span> - 10040</div>
+                        <div class="neighborhood-item"><span>Garment District</span> - 10018</div>
+                        <div class="neighborhood-item"><span>Governors Island</span> - 10004</div>
+                        <div class="neighborhood-item"><span>Gramercy</span> - 10003</div>
+                        <div class="neighborhood-item"><span>Greenwich Village</span> - 10014</div>
+                        <div class="neighborhood-item"><span>Hamilton Heights</span> - 10031</div>
+                        <div class="neighborhood-item"><span>Harlem</span> - 10027</div>
+                        <div class="neighborhood-item"><span>Hell's Kitchen</span> - 10019</div>
+                        <div class="neighborhood-item"><span>Herald Square</span> - 10001</div>
+                        <div class="neighborhood-item"><span>Hudson Heights</span> - 10040</div>
+                        <div class="neighborhood-item"><span>Hudson Square</span> - 10013</div>
+                        <div class="neighborhood-item"><span>Inwood</span> - 10034</div>
+                        <div class="neighborhood-item"><span>Kips Bay</span> - 10010</div>
+                        <div class="neighborhood-item"><span>Koreatown</span> - 10001</div>
+                        <div class="neighborhood-item"><span>Lenox Hill</span> - 10075</div>
+                        <div class="neighborhood-item"><span>Lincoln Square</span> - 10023</div>
+                        <div class="neighborhood-item"><span>Little Italy</span> - 10013</div>
+                        <div class="neighborhood-item"><span>Lower East Side</span> - 10002</div>
+                        <div class="neighborhood-item"><span>Madison Square</span> - 10010</div>
+                        <div class="neighborhood-item"><span>Manhattan Valley</span> - 10027</div>
+                        <div class="neighborhood-item"><span>Manhattanville</span> - 10027</div>
+                        <div class="neighborhood-item"><span>Marble Hill</span> - 10463</div>
+                        <div class="neighborhood-item"><span>Midtown East</span> - 10017</div>
+                        <div class="neighborhood-item"><span>Midtown West</span> - 10018</div>
+                        <div class="neighborhood-item"><span>Morningside Heights</span> - 10027</div>
+                        <div class="neighborhood-item"><span>Murray Hill</span> - 10016</div>
+                        <div class="neighborhood-item"><span>NoHo</span> - 10012</div>
+                        <div class="neighborhood-item"><span>NoMad</span> - 10010</div>
+                        <div class="neighborhood-item"><span>Nolita</span> - 10012</div>
+                        <div class="neighborhood-item"><span>Roosevelt Island</span> - 10044</div>
+                        <div class="neighborhood-item"><span>Seaport District</span> - 10038</div>
+                        <div class="neighborhood-item"><span>SoHo</span> - 10012</div>
+                        <div class="neighborhood-item"><span>South Street Seaport</span> - 10038</div>
+                        <div class="neighborhood-item"><span>Stuyvesant Town</span> - 10009</div>
+                        <div class="neighborhood-item"><span>Sugar Hill</span> - 10039</div>
+                        <div class="neighborhood-item"><span>Sutton Place</span> - 10022</div>
+                        <div class="neighborhood-item"><span>Theater District</span> - 10036</div>
+                        <div class="neighborhood-item"><span>Times Square</span> - 10036</div>
+                        <div class="neighborhood-item"><span>Tribeca</span> - 10013</div>
+                        <div class="neighborhood-item"><span>Tudor City</span> - 10017</div>
+                        <div class="neighborhood-item"><span>Turtle Bay</span> - 10017</div>
+                        <div class="neighborhood-item"><span>Union Square</span> - 10003</div>
+                        <div class="neighborhood-item"><span>Upper East Side</span> - 10021</div>
+                        <div class="neighborhood-item"><span>Upper West Side</span> - 10023</div>
+                        <div class="neighborhood-item"><span>Washington Heights</span> - 10032</div>
+                        <div class="neighborhood-item"><span>West Harlem</span> - 10027</div>
+                        <div class="neighborhood-item"><span>West Village</span> - 10014</div>
+                        <div class="neighborhood-item"><span>Yorkville</span> - 10028</div>
+                        <div class="neighborhood-item"><span>Bloomingdale</span> - 10025</div>
+                        <div class="neighborhood-item"><span>Hudson Yards</span> - 10001</div>
+                        <div class="neighborhood-item"><span>Rockefeller Center</span> - 10112</div>
+                        <div class="neighborhood-item"><span>Bryant Park</span> - 10018</div>
+                        <div class="neighborhood-item"><span>Columbus Circle</span> - 10019</div>
+                        <div class="neighborhood-item"><span>Central Park South</span> - 10019</div>
+                        <div class="neighborhood-item"><span>Riverside South</span> - 10069</div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" id="brands" role="region" aria-label="Brands We Service">
+                <h2>Sub Zero Refrigerator Models We Service</h2>
+                <button class="cta-button" onclick="toggleSection('brandsContent')" aria-label="Toggle brands content">View Models</button>
+                <div class="section-content" id="brandsContent">
+                    <p>We provide expert repair for top Sub Zero refrigerator models in Manhattan, ensuring quality service for all makes and models.</p>
+                    <div class="brands-grid">
+                        <ul>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                        </ul>
+                        <ul>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-RH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/PH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                            <li class="brand-item">
+                                <h3>BI-36UFDID/S/TH-LH</h3>
+                                <p class="brand-desc">Sub Zero Built-In Refrigerator Repair Manhattan</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <p>...and many more models (full list available on request).</p>
+                </div>
+            </section>
+
+            <section class="section" id="additional-services" role="region" aria-label="Additional Services Offered">
+                <h2>Additional Services Offered</h2>
+                <button class="cta-button" onclick="toggleSection('additionalServicesContent')" aria-label="Toggle additional services content">View Additional Services</button>
+                <div class="section-content" id="additionalServicesContent">
+                    <ul>
+                        <li><strong>Maintenance Services</strong></li>
+                        <li><strong>Refrigerator Performance Optimization</strong></li>
+                        <li><strong>Refrigerator Relocation & Setup Assistance</strong></li>
+                        <li><strong>Smart Refrigerator Connectivity Support</strong></li>
+                        <li><strong>Professional Deep Cleaning Services</strong></li>
+                        <li><strong>Energy Efficiency Upgrades & Optimization</strong></li>
+                        <li>Emergency Repairs: <em>24/7 support for urgent refrigerator issues in Manhattan</em>.</li>
+                        <li><strong>Noise & Vibration Reduction Services</strong></li>
+                        <li><strong>Commercial & Multi-Unit Refrigerator Services</strong></li>
+                        <li><strong>Recalls & Safety Compliance Checks</strong></li>
+                        <li><strong>Professional Installation Services</strong>: We provide professional installation for refrigerators.</li>
+                        <li><strong>EPA Section 608 Certification</strong></li>
+                    </ul>
+                </div>
+            </section>
+
+            <section class="section" id="reviews" role="region" aria-label="Customer Reviews">
+                <h2>Customer Reviews</h2>
+                <p>Over 1,000 Reviews!</p>
+                <button class="cta-button" onclick="toggleSection('reviewsContent')" aria-label="Toggle reviews content">Read Reviews</button>
+                <div class="section-content" id="reviewsContent">
+                    <div class="widget-wrapper">
+                        <script src="https://static.elfsight.com/platform/platform.js" async></script>
+                        <div class="elfsight-app-2942fb52-4463-41bc-bc83-d831b9da6f0e" data-elfsight-app-lazy></div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section" id="about" role="region" aria-label="About Us">
+                <h2>About Sub Zero Refrigerator Repair Manhattan</h2>
+                <button class="cta-button" onclick="toggleSection('aboutContent')" aria-label="Toggle about content">Learn More</button>
+                <div class="section-content" id="aboutContent">
+                    <p>Serving Manhattan since 1993, Sub Zero Refrigerator Repair Manhattan is a trusted name in Manhattan, NY, delivering fast, reliable Sub Zero refrigerator repair across the city and surrounding areas. Our skilled technicians ensure your Sub Zero refrigerators are restored with precision.</p>
+                </div>
+            </section>
+
+            <section class="section" id="contact" role="region" aria-label="Contact Us">
+                <h2>Contact Sub Zero Refrigerator Repair Manhattan</h2>
+                <button class="cta-button" onclick="toggleSection('contactContent')" aria-label="Toggle contact content">Get in Touch</button>
+                <div class="section-content" id="contactContent">
+                    <p>Contact us for expert Sub Zero refrigerator repair in Manhattan. Reach out via phone at <a href="tel:+17187171706">+1 (718) 717-1706</a> or email at <a href="mailto:info@refrigerationrepairmanhattan.com">info@refrigerationrepairmanhattan.com</a>.</p>
+                </div>
+            </section>
+
+            <section class="section" id="guarantee-policy" role="region" aria-label="Guarantee Policy">
+                <h2>100% Or Your Money Back Guaranteed Policy</h2>
+                <button class="cta-button" onclick="toggleSection('guaranteePolicyContent')" aria-label="Toggle guarantee policy content">View Policy</button>
+                <div class="section-content" id="guaranteePolicyContent">
+                    <p>We understand the frustration of dealing with companies that charge for repairs they can’t complete or lack the expertise to get the job done right. At <strong>Sub Zero Refrigerator Repair Manhattan</strong>, we believe in <em>honest, reliable service</em> you can trust. That’s why we offer a <strong>100% Money-Back Guarantee</strong>.</p>
+                    <p>If we are unable to complete your Sub Zero refrigerator repair due to our own limitations or lack of expertise, you will receive a full refund—no questions asked. You should only pay for real results, not failed attempts.</p>
+                    <p>We stand by our work, and your satisfaction is our top priority.</p>
+                </div>
+            </section>
+        </main>
+
+        <footer role="contentinfo">
+            <div class="footer-container">
+                <div class="footer-section">
+                    <h4>Sub Zero Refrigerator Repair Manhattan</h4>
+                    <p>Expert Sub Zero refrigerator repair in Manhattan, NY since 1993.</p>
+                    <p>Trust us for reliable, same-day service.</p>
+                </div>
+                <div class="footer-section quick-links">
+                    <h4>Quick Links</h4>
+                    <div class="quick-links-container">
+                        <ul class="quick-links-list">
+                            <li><a href="#home" class="footer-link">Home</a></li>
+                            <li><a href="#services" class="footer-link">Services</a></li>
+                            <li><a href="#service-areas" class="footer-link">Serving All Manhattan Neighborhoods</a></li>
+                        </ul>
+                        <ul class="quick-links-list">
+                            <li><a href="#brands" class="footer-link">Brands We Service</a></li>
+                            <li><a href="#contact" class="footer-link">Contact Us</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-section appliance-services">
+                    <h4>Refrigerator Services</h4>
+                    <div class="appliance-services-container">
+                        <ul class="appliance-services-list">
+                            <li><a href="#services" class="footer-link">Top Freezer Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Bottom Freezer Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">French Door Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Side-by-Side Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Undercounter Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Quad Door Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Built-In Refrigerator Repair</a></li>
+                            <li><a href="#services" class="footer-link">Counter-Depth Refrigerator Repair</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <p class="phone-link"><span class="icon">📞</span> <a href="tel:+17187171706">+1 (718) 717-1706</a></p>
+                    <p>Email: <a href="mailto:info@refrigerationrepairmanhattan.com">info@refrigerationrepairmanhattan.com</a></p>
+                    <p>Address: 123 Main St, Manhattan, NY 10001</p>
+                    <p class="hours-info"><span class="icon">🕒</span> Hours: 7 days a week, 7am-6pm</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2025 Sub Zero Refrigerator Repair Manhattan. All rights reserved.</p>
+            </div>
+        </footer>
+
+        <a href="tel:+17187171706" class="phone-floater" aria-label="Book now to schedule your Sub Zero refrigerator repair">
+            <span class="icon">📞</span>
+            <span class="floater-text">Book Now</span>
+        </a>
+
+        <!-- Review Badge -->
+        <div class="review-badge" aria-label="Over 1,000 customer reviews">
+            <i class="fas fa-star"></i>
+            Over 1,000 Reviews
+        </div>
+    </div>
+
+    <script>
+        // For better SEO, consider using the History API to update URLs or creating separate pages for each section.
+        document.getElementById('hamburger').addEventListener('click', function (e) {
+            e.preventDefault();
+            this.classList.toggle('active');
+            const navMenu = document.getElementById('nav-menu');
+            navMenu.classList.toggle('active');
+            const isExpanded = this.classList.contains('active');
+            this.setAttribute('aria-expanded', isExpanded);
+        });
+
+        document.querySelectorAll('nav ul li a, .footer-link').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                const href = this.getAttribute('href');
+                if (href.startsWith('#')) {
+                    e.preventDefault();
+                    const targetId = href.substring(1);
+                    const targetElement = document.getElementById(targetId);
+                    if (targetElement) {
+                        targetElement.scrollIntoView({ behavior: 'smooth' });
+                        document.querySelectorAll('nav ul li a').forEach(link => {
+                            link.removeAttribute('aria-current');
+                        });
+                        if (this.closest('nav')) {
+                            this.setAttribute('aria-current', 'page');
+                        }
+                    }
+                    document.getElementById('nav-menu').classList.remove('active');
+                    document.getElementById('hamburger').classList.remove('active');
+                    document.getElementById('hamburger').setAttribute('aria-expanded', 'false');
+                }
+            });
+        });
+
+        window.addEventListener('load', () => {
+            const currentHash = window.location.hash || '#home';
+            const currentLink = document.querySelector(`nav ul li a[href="${currentHash}"]`);
+            if (currentLink) {
+                currentLink.setAttribute('aria-current', 'page');
+            }
+        });
+
+        function toggleSection(id) {
+            document.querySelectorAll('.service-detail').forEach(detail => {
+                detail.classList.remove('active');
+            });
+            document.querySelectorAll('.cta-button').forEach(button => {
+                button.classList.remove('active');
+            });
+
+            const content = document.getElementById(id);
+            if (content.classList.contains('service-detail')) {
+                content.classList.toggle('active');
+                const button = content.previousElementSibling;
+                button.classList.toggle('active');
+            } else {
+                content.classList.toggle('active');
+                const button = content.previousElementSibling;
+                button.classList.toggle('active');
+            }
+        }
+
+        function toggleDropdown(id) {
+            var dropdown = document.getElementById(id);
+            if (dropdown.style.display === "none") {
+                dropdown.style.display = "block";
+            } else {
+                dropdown.style.display = "none";
+            }
+        }
+
+        document.querySelectorAll('.brand-item').forEach(item => {
+            item.addEventListener('click', function (e) {
+                e.preventDefault();
+                const desc = this.querySelector('.brand-desc');
+                desc.classList.toggle('active');
+            });
+        });
+
+        const reviewsContent = document.getElementById('reviewsContent');
+        if (reviewsContent) {
+            const observer = new MutationObserver((mutations) => {
+                mutations.forEach(mutation => {
+                    if (mutation.addedNodes.length) {
+                        const widget = reviewsContent.querySelector('.elfsight-app-2942fb52-4463-41bc-bc83-d831b9da6f0e');
+                        if (widget) {
+                            widget.style.width = '100%';
+                            widget.style.maxWidth = '100%';
+                            widget.style.margin = '0 auto';
+                        }
+                    }
+                });
+            });
+            observer.observe(reviewsContent, { childList: true, subtree: true });
+        }
+    </script>
+</body>
+</html>
